@@ -1,2 +1,1 @@
-print("hello conytinous integration")
-;
+print("Hello ,github actions!)
